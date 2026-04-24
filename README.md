@@ -2,72 +2,57 @@
 
 **💻 MERN Full Stack Developer | MongoDB | Express | React | Node.js**  
 
-Passionate about building scalable, responsive, and user-friendly web applications using the MERN stack. I focus on creating real-world projects, solving complex problems, and writing clean, efficient code.  
+Passionate about building clean, scalable, and user-friendly web applications using the MERN stack. I share daily progress, projects, and learnings — covering both frontend and backend development.  
 
-I actively share my learning journey, projects, and development insights while continuously improving both frontend and backend skills.  
-
----
-
-## 🚀 Tech Stack  
-
-### 🔹 Frontend  
-- HTML5, CSS3, JavaScript (ES6+)  
-- React.js (Hooks, Components, State Management – learning & building)  
-- Responsive Design (Flexbox, Grid, Media Queries)  
-
-### 🔹 Backend  
-- Node.js  
-- Express.js  
-- REST API Development  
-
-### 🔹 Database  
-- MongoDB (CRUD Operations, Schema Design – learning & building)  
-
-### 🔹 Tools & Technologies  
-- Git & GitHub  
-- Postman (API Testing)  
-- VS Code  
-- Netlify / GitHub Pages (Deployment – learning)  
+Always curious about building real-world projects, solving problems, and writing code that is simple yet impactful.  
 
 ---
 
-## 🔧 Skills  
+## 🔧 Areas of Expertise:  
 
 - Full Stack Web Development (MERN)  
-- API Integration & Development  
-- Authentication & Basic Security Concepts (learning)  
-- Debugging & Problem Solving  
-- Clean Code & Project Structure  
-- Communication (Hindi + English)  
+- Frontend Development (HTML, CSS, JavaScript, React)  
+- Backend Development (Node.js, Express.js)  
+- Database Management (MongoDB – learning & building)  
+- REST API Development & Integration  
+- Version Control (Git, GitHub)  
+- Responsive Design & Layouts  
+- Problem-Solving & Debugging  
+- Communication & Collaboration Skills (English + Hindi)  
 
 ---
 
-## 📂 Current Projects & Journey  
+<p align="center">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="80" height="80"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="80" height="80"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="80" height="80"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="80" height="80"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="80" height="80"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="80" height="80"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="80" height="80"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="80" height="80"/>  
+</p>  
 
-- Building **Full Stack MERN Projects** (Auth Systems, Dashboards, CRUD Apps)  
+---
+
+## 🚀 Current Projects & Journey  
+
+- Building **MERN Stack Projects** (Authentication, Dashboards, CRUD Apps)  
 - Practicing **Frontend + Backend Integration**  
-- Daily code uploads on GitHub to maintain consistency  
-- Strengthening **Data Flow & API Handling concepts**  
+- Uploading code daily to **GitHub** for consistency  
+- Learning **API handling, authentication & database design**  
 - Sharing progress on **LinkedIn & Twitter** (#100DaysOfCode #MERNStack)  
-
----
-
-## 📈 Goals  
-
-- Master MERN Stack completely  
-- Build production-level full stack applications  
-- Contribute to open source projects  
-- Become job-ready Full Stack Developer  
 
 ---
 
 ## 🤝 Let's Connect!  
 
-- **LinkedIn:** https://www.linkedin.com/in/abhishekgo87/  
-- **GitHub:** https://github.com/RealAbhishekCode  
+- **LinkedIn:** [Abhishek Goswami](https://www.linkedin.com/in/abhishekgo87/)  
+- **GitHub:** [Abhishek Goswami](https://github.com/RealAbhishekCode)  
 
 ---
 
 ## ⚡ Fun Fact  
 
-I believe in **“Consistency > Motivation”** — coding daily to become better than yesterday 🚀  
+**“Consistency > Motivation”** — coding daily to become better than yesterday 🚀  
