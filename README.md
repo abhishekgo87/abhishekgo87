@@ -44,7 +44,7 @@ Always curious about building real-world projects, solving problems, and writing
 - Practicing **Frontend + Backend Integration**  
 - Uploading code daily to **GitHub** for consistency  
 - Learning **API handling, authentication & database design**  
-- Sharing progress on **LinkedIn & Twitter** (#100DaysOfCode #MERNStack)  
+ 
 
 ---
 
@@ -52,9 +52,4 @@ Always curious about building real-world projects, solving problems, and writing
 
 - **LinkedIn:** [Abhishek Goswami](https://www.linkedin.com/in/abhishekgo87/)  
 - **GitHub:** [Abhishek Goswami](https://github.com/RealAbhishekCode)  
-
----
-
-## ⚡ Fun Fact  
-
-**“Consistency > Motivation”** — coding daily to become better than yesterday 🚀  
+ 
