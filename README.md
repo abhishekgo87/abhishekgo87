@@ -115,9 +115,9 @@ Docker, Deployment & AWS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RealAbhishekCode&show_icons=true&hide_border=true&theme=transparent" alt="Abhishek's GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhishekgo87&show_icons=true&hide_border=true&theme=transparent" alt="Abhishek's GitHub Stats" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RealAbhishekCode&hide_border=true&theme=transparent" alt="Abhishek's GitHub Streak" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekgo87&hide_border=true&theme=transparent" alt="Abhishek's GitHub Streak" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealAbhishekCode&layout=compact&hide_border=true&theme=transparent" alt="Most Used Languages" />
 
