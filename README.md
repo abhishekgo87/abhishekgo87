@@ -7,8 +7,8 @@
 I build responsive, scalable, and user-focused web applications using the **MERN Stack**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek_Goswami-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/abhishekgo87/)
-[![GitHub](https://img.shields.io/badge/GitHub-RealAbhishekCode-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/RealAbhishekCode)
-![Profile Views](https://komarev.com/ghpvc/?username=RealAbhishekCode\&style=for-the-badge\&color=0e75b6)
+[![GitHub](https://img.shields.io/badge/GitHub-abhishekgo87-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/abhishekgo87)
+![Profile Views](https://komarev.com/ghpvc/?username=abhishekgo87\&style=for-the-badge\&color=0e75b6)
 
 </div>
 
